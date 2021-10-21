@@ -56,7 +56,7 @@ FULL HELP FUL
             </tr>
         </tbody>
     </table>
-    <div>
+          <div>
             <label for="car">Car</label>
             <select name="mycar" id="Car">
                 <option value="ind">Bugatti Divo - $5.8 Million.</option>
@@ -64,7 +64,7 @@ FULL HELP FUL
                 <option value="stf">Range Rover Sport</option>
                 <option value="stf">Rolls-Royce Boat Tail - $28.0 Million.</option>
             </select>
-        </div>
+           </div>
 
 </body>
 </html>
