@@ -13,7 +13,7 @@ FULL HELP FUL
     <h2>YOU ARE LUCKY</h2>
     <h3>YOU ARE HELPFUL</h3>
     <h3>YOU ARE ALAWYS WELCOME </h3>
-    
+    <img src="https://source.unsplash.com/user/erondu/600x200" alt="Remote image">
     
   
     <p> Good evening everyone. I extend a warm welcome to all at the 50th annual function of our school. I find immense pleasure in introducing our honorable chief guest Mr Rajat Venkat, who had been working as a social worker, had himself served as a teacher for more than 20 years and is running a private zoo of his own where he, along with his wife, takes care of several domestic and wild animals.
