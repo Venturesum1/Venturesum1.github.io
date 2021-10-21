@@ -12,11 +12,15 @@ FULL HELP FUL
     <h1>soumyasis</h1>
     <h2>YOU ARE LUCKY</h2>
     <h3>YOU ARE HELPFUL</h3>
-    <h4>soumyasis</h4>
-    <h5>soumyasis</h5>
-    <h6>soumyasis</h6>
+    <h3>YOU ARE  </h3>
+    
+    
     <!-- lorem used hoti ha  dummy test ka liya  -->
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam distinctio quia sapiente! Expedita temporibus repellat laborum error, ad saepe ipsam doloribus, consequuntur facilis veritatis labore molestiae corrupti ratione esse odio libero perferendis! Praesentium, dolores!</p>
+    <p> Good evening everyone. I extend a warm welcome to all at the 50th annual function of our school. I find immense pleasure in introducing our honorable chief guest Mr Rajat Venkat, who had been working as a social worker, had himself served as a teacher for more than 20 years and is running a private zoo of his own where he, along with his wife, takes care of several domestic and wild animals.<br>
+
+<br>We are really thankful to him for taking the time out of his busy schedule to attend the function. He is also an alumnus of the school. That is one of the main reasons why he cancelled all his work and was really ecstatic to be here. His love for kids was another. An inspiration to many, Mr Venkat also runs an old age home and is always ready to render a helping hand to the poor and the needy.<br>
+
+<br>The presence of such a personality in a school annual function is a blessing. We hope that the students are able to seek a little guidance and imbibe something from his thoughts.</p>
     <p>first</p>
     <p>second</p>
     <p>third</p>
