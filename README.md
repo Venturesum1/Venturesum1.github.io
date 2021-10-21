@@ -19,7 +19,7 @@ FULL HELP FUL
     <a href="https://twitter.com" target="_blank">Go to twitter</a><br>
     <a href="https://linkedin.com" target="_blank">Go to Linkedin</a><br>
         <img src="https://source.unsplash.com/user/erondu/600x200" alt="Remote image"><br>
-   <br><strong style="border:2px solid red;">GOOGLE IS BEST</strong><br>
+   <br><strong style="border:2px solid rgb;">GOOGLE IS BEST</strong><br>
     <br><a style="border:2px solid blue;">FACEBOOK IS GOOD </a><br>
     <br><span style="border:2px solid red;">LINKIN IS BETTER</span><br>
     <br><span style="border:2px solid blue;">TWITTER IS BETTER THAN FACEBOOK</span>
