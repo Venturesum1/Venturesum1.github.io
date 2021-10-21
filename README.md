@@ -20,10 +20,37 @@ FULL HELP FUL
     <a href="https://linkedin.com" target="_blank">Go to Linkedin</a><br>
         <img src="https://source.unsplash.com/user/erondu/600x200" alt="Remote image"><br>
    <br><strong style="border:2px solid red;">GOOGLE IS BEST</strong><br>
-    <br><a style="border:2px solid blue;">FACEBOOK IS GOOD </a>
-    <span style="border:2px solid red;">LINKIN IS BETTER</span><br>
-    <span style="border:2px solid blue;">TWITTER IS BETTER THAN FACEBOOK</span>
-    
+    <br><a style="border:2px solid blue;">FACEBOOK IS GOOD </a><br>
+    <br><span style="border:2px solid red;">LINKIN IS BETTER</span><br>
+    <br><span style="border:2px solid blue;">TWITTER IS BETTER THAN FACEBOOK</span>
+    </ol>
+    <h3>HTML TABLE</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Employee Id</th>
+                <th>Employee Role</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Satyam</td>
+                <td>345457</td>
+                <td>Devolaper</td>
+            </tr>
+            <tr>
+                <td>Soumyasis</td>
+                <td>23356</td>
+                <td>CEO</td>
+            </tr>
+            <tr>
+                <td>Subrat</td>
+                <td>38756</td>
+                <td>Andioed Devoloper</td>
+            </tr>
+        </tbody>
+    </table>
     
 
 </body>
