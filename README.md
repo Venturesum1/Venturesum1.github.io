@@ -52,7 +52,7 @@ FULL HELP FUL
             <tr>
                 <td>sidharth</td>
                 <td>38745</td>
-                <td>GOOGLE CEO</td>
+                <td> CTO</td>
             </tr>
         </tbody>
     </table>
