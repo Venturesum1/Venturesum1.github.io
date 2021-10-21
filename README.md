@@ -19,8 +19,7 @@ FULL HELP FUL
     <a href="https://twitter.com" target="_blank">Go to twitter</a><br>
     <a href="https://linkedin.com" target="_blank">Go to Linkedin</a><br>
     
-    <!-- image is not present hence alt text is shown -->
-    <!-- <img src="soumya.jpg" alt="Error loding image"> -->
+   
     <img src="https://source.unsplash.com/user/erondu/600x200" alt="Remote image">
     
 
