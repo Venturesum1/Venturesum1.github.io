@@ -61,6 +61,8 @@ FULL HELP FUL
              <select name="mycar" id="Car">
                 <option value="ind">Bugatti Divo - $5.8 Million.</option>
                 <option value="stf">Lamborghini Veneno - $4.5 Million.</option>
+                 <option value="stf">Mercedes-Maybach Exelero - $8.0 Million.</option>
+                 <option value="stf">Bugatti La Voiture Noire - $18.7 Million.</option>
              </select>
            </div>
 
