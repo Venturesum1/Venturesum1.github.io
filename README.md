@@ -19,7 +19,7 @@ FULL HELP FUL
     
 We are really thankful to him for taking the time out of his busy schedule to attend the function. He is also an alumnus of the school. That is one of the main reasons why he cancelled all his work and was really ecstatic to be here. His love for kids was another. An inspiration to many, Mr Venkat also runs an old age home and is always ready to render a helping hand to the poor and the needy.
 
-The presence of such a personality in a school annual function is a blessing. We hope that the students are able to seek a little guidance and imbibe something from his thoughts.</p>
+The presence of such a personality in a school annual function is a blessing. We hope that the students are able to seek a little guidance and imbibe something from his thoughts.
     <p>first</p>
     <p>second</p>
     <p>third</p>
