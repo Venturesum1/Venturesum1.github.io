@@ -16,7 +16,7 @@ FULL HELP FUL
     
     
   
-    <p> Good evening everyone. I extend a warm welcome to all at the 50th annual function of our school. I find immense pleasure in introducing our honorable chief guest Mr Rajat Venkat, who had been working as a social worker, had himself served as a teacher for more than 20 years and is running a private zoo of his own where he, along with his wife, takes care of several domestic and wild animals.<br>
+    <p> Good evening everyone. I extend a warm welcome to all at the 50th annual function of our school. I find immense pleasure in introducing our honorable chief guest Mr Rajat Venkat, who had been working as a social worker, had himself served as a teacher for more than 20 years and is running a private zoo of his own where he, along with his wife, takes care of several domestic and wild animals.
 
 We are really thankful to him for taking the time out of his busy schedule to attend the function. He is also an alumnus of the school. That is one of the main reasons why he cancelled all his work and was really ecstatic to be here. His love for kids was another. An inspiration to many, Mr Venkat also runs an old age home and is always ready to render a helping hand to the poor and the needy.<br>
 
