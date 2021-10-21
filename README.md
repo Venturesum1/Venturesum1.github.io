@@ -57,12 +57,11 @@ FULL HELP FUL
         </tbody>
     </table>
           <div>
-            <label for="car">Car</label>
-            <select name="mycar" id="Car">
+             <label for="car">Car</label>
+             <select name="mycar" id="Car">
                 <option value="ind">Bugatti Divo - $5.8 Million.</option>
                 <option value="stf">Lamborghini Veneno - $4.5 Million.</option>
-                
-            </select>
+             </select>
            </div>
 
 </body>
