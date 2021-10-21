@@ -60,9 +60,8 @@ FULL HELP FUL
             <label for="car">Car</label>
             <select name="mycar" id="Car">
                 <option value="ind">Bugatti Divo - $5.8 Million.</option>
-                <option value="stf">Lamborghini Veneno - $4.5 Million</option>
-                <option value="stf">Range Rover Sport</option>
-                <option value="stf">Rolls-Royce Boat Tail - $28.0 Million.</option>
+                <option value="stf">Lamborghini Veneno - $4.5 Million.</option>
+                
             </select>
            </div>
 
