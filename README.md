@@ -13,7 +13,7 @@ FULL HELP FUL
     <h2>YOU ARE LUCKY</h2>
     <h3>YOU ARE HELPFUL</h3>
     <h3>YOU ARE ALAWYS WELCOME </h3>
-    <img src="https://source.unsplash.com/user/jackie/likes/1600x900"> alt="Remote image">
+    <img src="https://source.unsplash.com/user/jackie/likes/1600x900" alt="Remote image">
     
   
     
