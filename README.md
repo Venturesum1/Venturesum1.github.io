@@ -37,7 +37,7 @@ FULL HELP FUL
             <tr>
                 <td>Satyam</td>
                 <td>345457</td>
-                <td>Devolaper</td>
+                <td>DEVOPS</td>
             </tr>
             <tr>
                 <td>Soumyasis</td>
@@ -47,7 +47,12 @@ FULL HELP FUL
             <tr>
                 <td>Subrat</td>
                 <td>38756</td>
-                <td>Andioed Devoloper</td>
+                <td>IOS DEVELOPER</td>
+            </tr>
+            <tr>
+                <td>sidharth</td>
+                <td>38756</td>
+                <td>GOOGLE CEO</td>
             </tr>
         </tbody>
     </table>
