@@ -10,7 +10,7 @@ FULL HELP FUL<br>
 </head>
 <body>
     <figure role="figure"><video style="width:70%;height:auto" role="video" src="https://media.istockphoto.com/videos/realistic-moon-phases-in-4k-animation-video-id1263945217" alt="Realistic Moon phases in 4K animation Realistic high Definition Animation of Moon's phases seamless loop. Made it in 4k and 60fps. Elements of this image furnished by NASA. Moon Stock Footage Video" controls="" controlslist="nodownload" autoplay="" loop=""></video><figcaption data-testid="figcaption">Realistic Moon phases in 4K animation Realistic high Definition Animation of Moon's phases seamless loop. Made it in 4k and 60fps. Elements of this image furnished by NASA. Moon Stock Footage Video</figcaption></figure>
-    <h1>soumyasis</h1>
+    <h1>SOUMYASIS</h1>
     <h2>YOU ARE LUCKY</h2>
     <h3>YOU ARE HELPFUL</h3>
     <h3>YOU ARE ALAWYS WELCOME </h3>
@@ -60,10 +60,10 @@ FULL HELP FUL<br>
           <div>
              <label for="car">Car</label>
              <select name="mycar" id="Car">
-                <option value="ind">Bugatti Divo - $5.8 Million.<img src="https://i.ytimg.com/vi/ATPv2yMArv4/maxresdefault.jpg" alt="$5.8 MILLION Bugatti Divo FIRST DRIVING FOOTAGE!! - YouTube" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 243.562px; margin: 0px;"></option>
+                <option value="ind">Bugatti Divo - $5.8 Million</option>
                 <option value="stf">Lamborghini Veneno - $4.5 Million.<img src="https://cimg3.ibsrv.net/ibimg/hgm/1208x680-1/100/508/valentino-balboni-poses-beside-a-lamborghini-veneno-roadster-painted-in-verde-singh_100508595.jpg" alt="One Guy Now Owns Two Lamborghini Venenos (Probably)" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 243.742px; margin: 0px;"></option>
                 <option value="sef">Mercedes-Maybach Exelero - $8.0 Million.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Excelero.jpg/1200px-Excelero.jpg" alt="Maybach Exelero - Wikipedia" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 298.048px; margin: 0px;"></option>
-                <option value="sff">Bugatti La Voiture Noire - $18.7 Million.<img src="https://i.insider.com/5d52d4b8cd97840fe250aa5d?width=1136&amp;format=jpeg" alt="Bugatti&amp;#39;s &amp;#39;La Voiture Noire&amp;#39; Is the Most Expensive New Car Ever Sold" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 324.75px; margin: 0px;"></option>
+                <option value="sff">Bugatti La Voiture Noire - $18.7 Million.<a role="link" tabindex="0" rel="noopener" target="_blank" href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.businessinsider.com%2Fbugatti-la-voiture-noire-most-expensive-new-car-ever-2019-8&amp;psig=AOvVaw2tXoC7htPmUSK9Dnenut_3&amp;ust=1635012007505000&amp;source=images&amp;cd=vfe&amp;ved=0CAsQjRxqFwoTCID_xsLM3vMCFQAAAAAdAAAAABAD" jsaction="focus:kvVbVb;mousedown:kvVbVb;touchstart:kvVbVb;" aria-label="Visit Business Insider" class="eHAdSb" data-ved="0CAsQjRxqFwoTCID_xsLM3vMCFQAAAAAdAAAAABAD" rlhc="1"><img src="https://i.insider.com/5d52d4b8cd97840fe250aa5d?width=1136&amp;format=jpeg" alt="Bugatti&amp;#39;s &amp;#39;La Voiture Noire&amp;#39; Is the Most Expensive New Car Ever Sold" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 324.75px; margin: 0px;"><span class="VSIspc" jsname="eQ3Oyb" style="margin: 0px;">1136 × 852</span></a></option>
              </select>
            </div>
           
