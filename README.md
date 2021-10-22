@@ -66,6 +66,176 @@ FULL HELP FUL<br>
                 <option value="sff">Bugatti La Voiture Noire - $18.7 Million.</option>
              </select>
            </div>
+           <style type="text/css"><!-- Remote config blank inline CSS -->
 
+  
+    .tagEdit {
+      padding-bottom:4px;
+      padding-top:4px;
+    }
+
+    .edit-tag {
+      width: 155px;
+      margin-left: 10px;
+    }
+
+    .list-tags {
+      white-space: nowrap;
+      padding: 1px 0px 0px 0px;
+    }
+
+   #suggest-table {
+      display: none;
+      position: absolute;
+      z-index: 2;
+      background-color: #fff;
+      border: 1px solid #9ac;
+    }
+
+    #suggest-table tr td{
+      color: #333;
+      font: 11px Verdana, sans-serif;
+      padding: 2px;
+    }
+
+    #suggest-table tr.hovered {
+      color: #efedd4;
+      background-color: #9ac;
+    }
+
+  
+  .see-popular {
+    padding: 1.3em 0 0 0;
+  }
+
+  .tag-cols {
+    border-collapse: collapse;
+  }
+
+  .tag-cols td {
+    vertical-align: top;
+    width: 250px;
+    padding-right: 30px;
+  }
+
+  .tag-cols .tag-row {
+    padding: 0 0 7px 0px;
+  }
+
+  .tag-cols .see-all {
+    white-space: nowrap;
+    padding-top: 5px;
+  }
+
+  .tags-piles-feedback {
+    display: none;
+    color: #000;
+    font-size: 0.9em;
+    font-weight: bold;
+    margin: 0px 0 0 0;
+   }
+
+  .tag-cols i {
+    display: none;
+    cursor: pointer;
+    cursor: hand;
+    float: left;
+    font-style: normal;
+    font-size: 0px;
+    vertical-align: bottom;
+    width: 16px;
+    height: 16px;
+    margin-top: 1px;
+    margin-right: 3px;
+  }
+
+  .tag-cols .snake {
+    display: block;
+    background: url('https://images-eu.ssl-images-amazon.com/images/G/31/x-locale/communities/tags/graysnake.jpg');
+  }
+
+  #tagContentHolder .tip {
+    display: none;
+    color: #999;
+    font-size: 10px;
+    padding-top: 0.25em;
+  }
+
+  #tagContentHolder .tip a {
+    color: #999 !important;
+    text-decoration: none !important;
+    border-bottom: solid 1px #CCC;
+  }
+
+  .nowrap {
+    white-space: nowrap;
+  }
+
+  #tgEnableVoting {
+    display: none;
+  }
+
+  #tagContentHolder .count {
+    color: #666;
+    font-size: 10px;
+    margin-left: 3px;
+    white-space: nowrap;
+  }
+
+  .count.tgVoting {
+    cursor: pointer;
+  }
+
+  .tgVoting .tgCounter {
+    margin-right: 3px;
+    border-bottom: 1px dashed #003399;
+    color: #003399;
+  }
+
+
+.c2c-inline-sprite {
+    display: -moz-inline-box;
+    display: inline-block;
+    margin: 0;padding: 0; 
+    position: relative;
+    overflow: hidden;
+    vertical-align: middle;
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/electronics/click2call/click2call-sprite._CB485946161_.png);
+    background-repeat: no-repeat;
+}
+.c2c-inline-sprite span {
+    position:absolute;
+    top:-9999px;
+}
+
+.dp-call-me-button {
+    width:52px;
+    height:22px;
+    background-position:0px -57px; 
+}
+
+
+/* Different sprites/images used CSS Start */
+.swSprite {background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/common/sprites/sprite-site-wide-2._CB485928467_.png); }
+.dpSprite {background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/common/sprites/sprite-dp-2._CB485927189_.png); }
+.wl-button-sprite {background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/x-locale/communities/wishlist/add-to-wl-button-sprite.gif); }
+.cBoxTL, .cBoxTR, .cBoxBL, .cBoxBR { background-image:url(https://images-eu.ssl-images-amazon.com/images/G/31/common/sprites/sprite-site-wide-2._CB485928467_.png); }
+.auiTestSprite { background: url(https://images-eu.ssl-images-amazon.com/images/G/31/nav2/images/sprite-carousel-btns-stars2.png) no-repeat scroll 0 0 transparent; }
+span.amtchelp { background: url(https://images-eu.ssl-images-amazon.com/images/G/31/SellerForums/amz/images/help-16x16._CB485933580_.gif) no-repeat scroll right bottom transparent; }
+.shuttleGradient { background: url(https://images-eu.ssl-images-amazon.com/images/G/31/x-locale/communities/customerimage/shuttle-gradient._CB485934832_.gif); }
+.twisterPopoverArrow { background: url(https://images-eu.ssl-images-amazon.com/images/G/31/gateway/csw/tri-down._CB485946742_.png); }
+#finderUpdateButton img, #finderShowMoreDevicesLink, #finderHideMoreDevicesLink {background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/nav2/finders/finder-fits-sprites.gif);}
+.cmtySprite { background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/common/sprites/sprite-communities._CB485971411_.png); background-repeat: no-repeat; }
+
+/* Different sprites/images used CSS End */
+
+
+
+/* Best Seller Badging */
+
+
+  .medSprite { background-image: url('https://images-eu.ssl-images-amazon.com/images/G/31/common/sprites/sprite-media-platform._CB485924825_.png'); background-repeat: no-repeat; }
+
+</style>
 </body>
 </html>
