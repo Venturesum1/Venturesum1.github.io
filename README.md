@@ -61,22 +61,11 @@ FULL HELP FUL<br>
              <label for="car">Car</label>
              <select name="mycar" id="Car">
                 <option value="ind">Bugatti Divo - $5.8 Million.<img src="https://i.ytimg.com/vi/ATPv2yMArv4/maxresdefault.jpg" alt="$5.8 MILLION Bugatti Divo FIRST DRIVING FOOTAGE!! - YouTube" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 243.562px; margin: 0px;"></option>
-                <option value="stf">Lamborghini Veneno - $4.5 Million.</option>
-                <option value="sef">Mercedes-Maybach Exelero - $8.0 Million.</option>
-                <option value="sff">Bugatti La Voiture Noire - $18.7 Million.</option>
+                <option value="stf">Lamborghini Veneno - $4.5 Million.<img src="https://cimg3.ibsrv.net/ibimg/hgm/1208x680-1/100/508/valentino-balboni-poses-beside-a-lamborghini-veneno-roadster-painted-in-verde-singh_100508595.jpg" alt="One Guy Now Owns Two Lamborghini Venenos (Probably)" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 243.742px; margin: 0px;"></option>
+                <option value="sef">Mercedes-Maybach Exelero - $8.0 Million.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Excelero.jpg/1200px-Excelero.jpg" alt="Maybach Exelero - Wikipedia" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 298.048px; margin: 0px;"></option>
+                <option value="sff">Bugatti La Voiture Noire - $18.7 Million.<img src="https://i.insider.com/5d52d4b8cd97840fe250aa5d?width=1136&amp;format=jpeg" alt="Bugatti&amp;#39;s &amp;#39;La Voiture Noire&amp;#39; Is the Most Expensive New Car Ever Sold" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 324.75px; margin: 0px;"></option>
              </select>
            </div>
-          <script type="text/javascript">
-$Nav.importEvent('navbarJS-beaconbelt');
-$Nav.declare('img.sprite', {
-  'png32': 'https://images-eu.ssl-images-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936311_.png',
-  'png32-2x': 'https://images-eu.ssl-images-amazon.com/images/G/31/gno/sprites/nav-sprite-global-2x-hm-dsk-reorg._CB405936311_.png'
-});
-$Nav.declare('img.timeline', {
-  'timeline-icon-2x': 'https://images-eu.ssl-images-amazon.com/images/G/31/gno/sprites/timeline_sprite_2x._CB443580981_.png'
-});
-window._navbarSpriteUrl = 'https://images-eu.ssl-images-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936311_.png';
-$Nav.declare('img.pixel', 'https://images-eu.ssl-images-amazon.com/images/G/31/x-locale/common/transparent-pixel._CB485934990_.gif');
-</script>
+          
 </body>
 </html>
